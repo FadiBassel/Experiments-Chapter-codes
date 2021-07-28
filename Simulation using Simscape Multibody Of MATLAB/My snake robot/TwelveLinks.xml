@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="06/03/21||16:23:55" using="Simscape Multibody Link Version 5.1" from="SolidWorks 24.0.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="TwelveLinks" uid="TwelveLinks" version="170">
+<AssemblyFile name="TwelveLinks.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="yellow seg with servo-3" uid="yellow seg with servo-3" entityUid="yellow seg with servo" rigid="true">
+<Transform>
+<Rotation>0 -1 0 -0.97324234829151557 0 -0.2297810512031318 0.2297810512031318 0 -0.97324234829151557</Rotation>
+<Translation>0.094054248440812824 0.14624797487835334 0.36560081663761868</Translation>
+</Transform>
+<Instance name="1D servo seg-2" uid="1D servo seg-2" grounded="true" entityUid="1D servo seg*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.031440036790938999 0.057870150715619718 0.081651369329981183</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="MG995_Servo-2" uid="MG995_Servo-2" entityUid="MG995_Servo" rigid="true">
+<Transform>
+<Rotation>0 0 1.0000000000000002 0 -1.0000000000000002 0 1 0 0</Rotation>
+<Translation>-0.03506608815275554 0.061151605250251387 0.19131354553494601</Translation>
+</Transform>
+<Instance name="TowerPro-MG995-1" uid="TowerPro-MG995-1" grounded="true" entityUid="TowerPro-MG995*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.071412176204964817 -0.013918545465368342 0.065906124943694522</Translation>
+</Transform>
+</Instance>
+<Instance name="TowerPro-MG995_pulley-1" uid="TowerPro-MG995_pulley-1" entityUid="TowerPro-MG995_pulley*:*Default">
+<Transform>
+<Rotation>-0.055704244691587801 0 0.9984473131434326 0 -1 0 0.9984473131434326 0 0.055704244691587801</Rotation>
+<Translation>-0.061162176204964835 -0.018118545465368341 0.06590612494369455</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="yellow seg with servo-4" uid="yellow seg with servo-4" entityUid="yellow seg with servo" rigid="true">
+<Transform>
+<Rotation>2.3592239273284572e-16 -1 0 -0.95258208913649423 -2.2730526131099917e-16 -0.30428171725615077 0.30428171725615077 0 -0.95258208913649423</Rotation>
+<Translation>0.094754248440812816 0.17264615201356759 0.43666502413331582</Translation>
+</Transform>
+<Instance name="1D servo seg-2" uid="1D servo seg-2" grounded="true" entityUid="1D servo seg*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.031440036790939027 0.057870150715619718 0.081651369329981238</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="MG995_Servo-2" uid="MG995_Servo-2" entityUid="MG995_Servo" rigid="true">
+<Transform>
+<Rotation>0 0 0.99999999999999989 0 -1 0 0.99999999999999989 0 0</Rotation>
+<Translation>-0.035066088152755498 0.06115160525025138 0.19131354553494606</Translation>
+</Transform>
+<Instance name="TowerPro-MG995-1" uid="TowerPro-MG995-1" grounded="true" entityUid="TowerPro-MG995*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.071412176204964872 -0.013918545465368335 0.065906124943694494</Translation>
+</Transform>
+</Instance>
+<Instance name="TowerPro-MG995_pulley-1" uid="TowerPro-MG995_pulley-1" entityUid="TowerPro-MG995_pulley*:*Default">
+<Transform>
+<Rotation>-0.055704244691587801 0 0.99844731314343271 0 -1 0 0.99844731314343271 0 0.055704244691587801</Rotation>
+<Translation>-0.061162176204964835 -0.018118545465368337 0.065906124943694522</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="yellow seg with servo-2" uid="yellow seg with servo-2" entityUid="yellow seg with servo" rigid="true">
+<Transform>
+<Rotation>0 -1 0 -0.98074872402086732 0 -0.19527401345657988 0.19527401345657974 0 -0.98074872402086732</Rotation>
+<Translation>0.093354248440812818 0.12734540975257735 0.29102641514944755</Translation>
+</Transform>
+<Instance name="1D servo seg-2" uid="1D servo seg-2" grounded="true" entityUid="1D servo seg*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.031440036790939027 0.057870150715619725 0.081651369329981238</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="MG995_Servo-2" uid="MG995_Servo-2" entityUid="MG995_Servo" rigid="true">
+<Transform>
+<Rotation>1.3877787807814457e-16 0 1 0 -1.0000000000000002 0 0.99999999999999989 0 1.1102230246251565e-16</Rotation>
+<Translation>-0.035066088152755484 0.061151605250251387 0.19131354553494601</Translation>
+</Transform>
+<Instance name="TowerPro-MG995-1" uid="TowerPro-MG995-1" grounded="true" entityUid="TowerPro-MG995*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.071412176204964789 -0.013918545465368332 0.065906124943694522</Translation>
+</Transform>
+</Instance>
+<Instance name="TowerPro-MG995_pulley-1" uid="TowerPro-MG995_pulley-1" entityUid="TowerPro-MG995_pulley*:*Default">
+<Transform>
+<Rotation>-0.05570424469158769 0 0.99844731314343249 0 -1 0 0.99844731314343249 0 0.05570424469158769</Rotation>
+<Translation>-0.061162176204964835 -0.018118545465368337 0.06590612494369455</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="yellow seg with servo-1" uid="yellow seg with servo-1" entityUid="yellow seg with servo" rigid="true">
+<Transform>
+<Rotation>0 -1 0 -0.95990081116799564 0 -0.28033985217771668 0.28033985217771656 0 -0.95990081116799575</Rotation>
+<Translation>0.092654248440812825 0.11648332676277866 0.210649129965752</Translation>
+</Transform>
+<Instance name="1D servo seg-2" uid="1D servo seg-2" grounded="true" entityUid="1D servo seg*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.031440036790939034 0.057870150715619718 0.081651369329981238</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="MG995_Servo-2" uid="MG995_Servo-2" entityUid="MG995_Servo" rigid="true">
+<Transform>
+<Rotation>0 0 1 0 -1 0 1.0000000000000002 0 0</Rotation>
+<Translation>-0.035066088152755477 0.06115160525025138 0.19131354553494606</Translation>
+</Transform>
+<Instance name="TowerPro-MG995-1" uid="TowerPro-MG995-1" grounded="true" entityUid="TowerPro-MG995*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.071412176204964817 -0.013918545465368332 0.065906124943694508</Translation>
+</Transform>
+</Instance>
+<Instance name="TowerPro-MG995_pulley-1" uid="TowerPro-MG995_pulley-1" entityUid="TowerPro-MG995_pulley*:*Default">
+<Transform>
+<Rotation>-0.055704244691587801 0 0.99844731314343282 0 -1 0 0.99844731314343282 0 0.055704244691587801</Rotation>
+<Translation>-0.061162176204964822 -0.018118545465368334 0.065906124943694522</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="Head-1" uid="Head-1" grounded="true" entityUid="Head" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.01212547565493869 0.015312511447669507 -0.0015586408317275202</Translation>
+</Transform>
+<Instance name="Head Cap-1" uid="Head Cap-1" grounded="true" entityUid="Head Cap*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.021958622070254556 0.034897252734493983 0.052421057158129676</Translation>
+</Transform>
+</Instance>
+<Instance name="Nose servo mount-1" uid="Nose servo mount-1" entityUid="Nose servo mount*:*Default">
+<Transform>
+<Rotation>0 -1 0 -1 0 0 -1.1102230246251565e-16 0 -1</Rotation>
+<Translation>0.02195862207025457 0.035080823344342815 0.066421057158129682</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="yellow seg with servo-7" uid="yellow seg with servo-7" entityUid="yellow seg with servo" rigid="true">
+<Transform>
+<Rotation>2.6367796834847468e-16 -1 1.0408340855860843e-16 -0.83023211964541699 -2.5508434264254697e-16 -0.55741782130559647 0.55741782130559658 0 -0.83023211964541721</Rotation>
+<Translation>0.096854248440812793 0.19523398656772528 0.63623569241114275</Translation>
+</Transform>
+<Instance name="1D servo seg-2" uid="1D servo seg-2" grounded="true" entityUid="1D servo seg*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.031440036790938986 0.057870150715619732 0.081651369329981183</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="MG995_Servo-2" uid="MG995_Servo-2" entityUid="MG995_Servo" rigid="true">
+<Transform>
+<Rotation>-2.2204460492503131e-16 0 0.99999999999999989 0 -1 0 1 0 0</Rotation>
+<Translation>-0.035066088152755609 0.061151605250251394 0.19131354553494612</Translation>
+</Transform>
+<Instance name="TowerPro-MG995-1" uid="TowerPro-MG995-1" grounded="true" entityUid="TowerPro-MG995*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.071412176204964872 -0.013918545465368332 0.065906124943694522</Translation>
+</Transform>
+</Instance>
+<Instance name="TowerPro-MG995_pulley-1" uid="TowerPro-MG995_pulley-1" entityUid="TowerPro-MG995_pulley*:*Default">
+<Transform>
+<Rotation>-0.055704244691587634 0 0.99844731314343282 0 -1 0 0.99844731314343282 0 0.055704244691587634</Rotation>
+<Translation>-0.06116217620496478 -0.018118545465368337 0.065906124943694522</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="yellow seg with servo-12" uid="yellow seg with servo-12" entityUid="yellow seg with servo" rigid="true">
+<Transform>
+<Rotation>2.4980018054066022e-16 -1 0 -0.96061483073401743 -1.9949319973733282e-16 -0.27788333338625276 0.27788333338625271 0 -0.96061483073401743</Rotation>
+<Translation>0.097554248440812785 0.20585364858699165 0.72691859071317422</Translation>
+</Transform>
+<Instance name="1D servo seg-2" uid="1D servo seg-2" grounded="true" entityUid="1D servo seg*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.031440036790939013 0.057870150715619725 0.081651369329981294</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="MG995_Servo-2" uid="MG995_Servo-2" entityUid="MG995_Servo" rigid="true">
+<Transform>
+<Rotation>0 0 1 0 -1 0 1 0 0</Rotation>
+<Translation>-0.035066088152755526 0.061151605250251394 0.19131354553494606</Translation>
+</Transform>
+<Instance name="TowerPro-MG995-1" uid="TowerPro-MG995-1" grounded="true" entityUid="TowerPro-MG995*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.071412176204964761 -0.013918545465368332 0.065906124943694494</Translation>
+</Transform>
+</Instance>
+<Instance name="TowerPro-MG995_pulley-1" uid="TowerPro-MG995_pulley-1" entityUid="TowerPro-MG995_pulley*:*Default">
+<Transform>
+<Rotation>-0.05570424469158778 0 0.9984473131434326 0 -1 0 0.9984473131434326 0 0.05570424469158778</Rotation>
+<Translation>-0.06116217620496478 -0.018118545465368334 0.065906124943694522</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="yellow seg with servo-6" uid="yellow seg with servo-6" entityUid="yellow seg with servo" rigid="true">
+<Transform>
+<Rotation>2.3245294578089215e-16 -1 0 -0.99902479619787088 -2.3386240860512331e-16 -0.044152650903453376 0.044152650903453348 0 -0.99902479619787099</Rotation>
+<Translation>0.096154248440812815 0.13079290227266832 0.59608298144205096</Translation>
+</Transform>
+<Instance name="1D servo seg-2" uid="1D servo seg-2" grounded="true" entityUid="1D servo seg*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.031440036790938999 0.057870150715619725 0.081651369329981294</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="MG995_Servo-2" uid="MG995_Servo-2" entityUid="MG995_Servo" rigid="true">
+<Transform>
+<Rotation>0 0 0.99999999999999989 0 -1 0 0.99999999999999989 0 0</Rotation>
+<Translation>-0.035066088152755526 0.061151605250251394 0.19131354553494612</Translation>
+</Transform>
+<Instance name="TowerPro-MG995-1" uid="TowerPro-MG995-1" grounded="true" entityUid="TowerPro-MG995*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.071412176204964817 -0.013918545465368335 0.065906124943694536</Translation>
+</Transform>
+</Instance>
+<Instance name="TowerPro-MG995_pulley-1" uid="TowerPro-MG995_pulley-1" entityUid="TowerPro-MG995_pulley*:*Default">
+<Transform>
+<Rotation>-0.055704244691587738 0 0.99844731314343249 0 -1.0000000000000002 0 0.9984473131434326 0 0.055704244691587766</Rotation>
+<Translation>-0.061162176204964891 -0.018118545465368334 0.065906124943694563</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="yellow seg with servo-13" uid="yellow seg with servo-13" entityUid="yellow seg with servo" rigid="true">
+<Transform>
+<Rotation>2.2204460492503131e-16 -0.99999999999999989 -1.6653345369377348e-16 -0.74253130526964584 -2.1857515797307769e-16 0.66981136202258906 -0.66981136202258906 0 -0.74253130526964572</Rotation>
+<Translation>0.098254248440812916 0.096882713429639805 0.80285634731594813</Translation>
+</Transform>
+<Instance name="1D servo seg-2" uid="1D servo seg-2" grounded="true" entityUid="1D servo seg*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.031440036790939097 0.057870150715619705 0.081651369329981183</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="MG995_Servo-2" uid="MG995_Servo-2" entityUid="MG995_Servo" rigid="true">
+<Transform>
+<Rotation>0 1.2245760120014617e-16 0.99999999999999989 0 -0.99999999999999989 1.2245760120014617e-16 1 0 0</Rotation>
+<Translation>-0.03506608815275547 0.061151605250251366 0.19131354553494606</Translation>
+</Transform>
+<Instance name="TowerPro-MG995-1" uid="TowerPro-MG995-1" grounded="true" entityUid="TowerPro-MG995*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.071412176204964817 -0.013918545465368328 0.065906124943694633</Translation>
+</Transform>
+</Instance>
+<Instance name="TowerPro-MG995_pulley-1" uid="TowerPro-MG995_pulley-1" entityUid="TowerPro-MG995_pulley*:*Default">
+<Transform>
+<Rotation>-0.055704244691587829 0 0.9984473131434326 1.2684711145730048e-16 -1 0 0.9984473131434326 1.2390382012502859e-16 0.055704244691587829</Rotation>
+<Translation>-0.06116217620496478 -0.018118545465368327 0.065906124943694633</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="yellow seg with servo-14" uid="yellow seg with servo-14" entityUid="yellow seg with servo" rigid="true">
+<Transform>
+<Rotation>1.9428902930940239e-16 -1 -1.6653345369377348e-16 -0.91936116207080554 -2.8622937353617317e-16 0.39341460785768728 -0.39341460785768728 1.1102230246251565e-16 -0.91936116207080565</Rotation>
+<Translation>0.098954248440812936 0.085618763731124509 0.87486246424352077</Translation>
+</Transform>
+<Instance name="1D servo seg-2" uid="1D servo seg-2" grounded="true" entityUid="1D servo seg*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.031440036790939041 0.057870150715619718 0.081651369329981183</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="MG995_Servo-2" uid="MG995_Servo-2" entityUid="MG995_Servo" rigid="true">
+<Transform>
+<Rotation>0 0 1 0 -1.0000000000000002 0 1 0 0</Rotation>
+<Translation>-0.03506608815275547 0.061151605250251373 0.19131354553494606</Translation>
+</Transform>
+<Instance name="TowerPro-MG995-1" uid="TowerPro-MG995-1" grounded="true" entityUid="TowerPro-MG995*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.071412176204964872 -0.013918545465368332 0.065906124943694522</Translation>
+</Transform>
+</Instance>
+<Instance name="TowerPro-MG995_pulley-1" uid="TowerPro-MG995_pulley-1" entityUid="TowerPro-MG995_pulley*:*Default">
+<Transform>
+<Rotation>-0.055704244691587634 0 0.9984473131434326 0 -1 0 0.9984473131434326 0 0.055704244691587634</Rotation>
+<Translation>-0.061162176204964891 -0.018118545465368334 0.065906124943694522</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="yellow seg with servo-5" uid="yellow seg with servo-5" entityUid="yellow seg with servo" rigid="true">
+<Transform>
+<Rotation>1.7954387976359953e-16 -1 -1.5439038936193583e-16 -0.91171168973107819 -2.2646950504148777e-16 0.41083061571370555 -0.41083061571370555 0 -0.91171168973107808</Rotation>
+<Translation>0.095454248440812822 0.10147528272395778 0.5278837483270824</Translation>
+</Transform>
+<Instance name="1D servo seg-2" uid="1D servo seg-2" grounded="true" entityUid="1D servo seg*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.031440036790939041 0.057870150715619732 0.081651369329981294</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="MG995_Servo-2" uid="MG995_Servo-2" entityUid="MG995_Servo" rigid="true">
+<Transform>
+<Rotation>0 0 1.0000000000000002 0 -1 0 1 0 0</Rotation>
+<Translation>-0.035066088152755526 0.061151605250251394 0.19131354553494606</Translation>
+</Transform>
+<Instance name="TowerPro-MG995-1" uid="TowerPro-MG995-1" grounded="true" entityUid="TowerPro-MG995*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.071412176204964872 -0.013918545465368339 0.065906124943694466</Translation>
+</Transform>
+</Instance>
+<Instance name="TowerPro-MG995_pulley-1" uid="TowerPro-MG995_pulley-1" entityUid="TowerPro-MG995_pulley*:*Default">
+<Transform>
+<Rotation>-0.055704244691587745 0 0.99844731314343249 0 -1 0 0.99844731314343249 0 0.055704244691587745</Rotation>
+<Translation>-0.061162176204964835 -0.018118545465368334 0.065906124943694522</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="Tail-4" uid="Tail-4" entityUid="Tail" rigid="true">
+<Transform>
+<Rotation>1 4.4065547942279015e-16 -1.268371653769505e-16 4.3704189572890674e-16 -0.99962989877637087 -0.027204144396443707 -1.3877787807814454e-16 0.027204144396443707 -0.99962989877637087</Rotation>
+<Translation>0.015335209367538745 0.11621228988768233 0.99372222259759857</Translation>
+</Transform>
+<Instance name="MG995_Servo-1" uid="MG995_Servo-1" entityUid="MG995_Servo" rigid="true">
+<Transform>
+<Rotation>0 1 -1.6653345369377351e-16 0 1.6653345369377346e-16 1 1 0 0</Rotation>
+<Translation>0.023867433823022827 -0.028886430223003953 0.16338362253655203</Translation>
+</Transform>
+<Instance name="TowerPro-MG995-1" uid="TowerPro-MG995-1" grounded="true" entityUid="TowerPro-MG995*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.071412176204964872 -0.013918545465368335 0.065906124943694536</Translation>
+</Transform>
+</Instance>
+<Instance name="TowerPro-MG995_pulley-1" uid="TowerPro-MG995_pulley-1" entityUid="TowerPro-MG995_pulley*:*Default">
+<Transform>
+<Rotation>-0.055704244691587766 0 0.9984473131434326 0 -1 0 0.9984473131434326 0 0.055704244691587766</Rotation>
+<Translation>-0.061162176204964891 -0.018118545465368337 0.065906124943694577</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="Tail servo mount-1" uid="Tail servo mount-1" entityUid="Tail servo mount*:*Default">
+<Transform>
+<Rotation>-1.2487534651844199e-16 -1.0000000000000002 0 1 -1.536073486508873e-16 0 0 0 1</Rotation>
+<Translation>0.027148888357654489 0.036419694720690544 0.053721446331587264</Translation>
+</Transform>
+</Instance>
+<Instance name="Tail cap-1" uid="Tail cap-1" grounded="true" entityUid="Tail cap*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.027148888357654496 0.036419694720690537 0.048721446331587148</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="yellow seg with servo-15" uid="yellow seg with servo-15" entityUid="yellow seg with servo" rigid="true">
+<Transform>
+<Rotation>3.5822039778921066e-16 -1 0 -0.99999652336785261 -2.8536201179818477e-16 0.0026369020095474011 -0.002636902009547519 0 -0.9999965233678525</Rotation>
+<Translation>0.099654248440812943 0.107727858649798 0.94477978998412204</Translation>
+</Transform>
+<Instance name="1D servo seg-2" uid="1D servo seg-2" grounded="true" entityUid="1D servo seg*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.031440036790939013 0.057870150715619711 0.081651369329981072</Translation>
+</Transform>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Instance>
+<Instance name="MG995_Servo-2" uid="MG995_Servo-2" entityUid="MG995_Servo" rigid="true">
+<Transform>
+<Rotation>1.1405806854547507e-16 0 1 0 -1 0 1 0 0</Rotation>
+<Translation>-0.035066088152755512 0.061151605250251387 0.19131354553494595</Translation>
+</Transform>
+<Instance name="TowerPro-MG995-1" uid="TowerPro-MG995-1" grounded="true" entityUid="TowerPro-MG995*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.071412176204964761 -0.013918545465368335 0.065906124943694508</Translation>
+</Transform>
+</Instance>
+<Instance name="TowerPro-MG995_pulley-1" uid="TowerPro-MG995_pulley-1" entityUid="TowerPro-MG995_pulley*:*Default">
+<Transform>
+<Rotation>-0.055704244691587773 0 0.99844731314343282 0 -1 0 0.99844731314343282 0 0.055704244691587773</Rotation>
+<Translation>-0.06116217620496478 -0.018118545465368337 0.065906124943694522</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Head-1</Uid>
+<Uid>Nose servo mount-1</Uid>
+</InstancePath>
+<Position>0 0.024199999999999999 -0.029499999999999998</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-1</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0035000000000000014 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Head-1</Uid>
+<Uid>Nose servo mount-1</Uid>
+</InstancePath>
+<Position>-0.017100000000000004 0.024199999999999999 -0.029499999999999998</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-1</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0034999999999999996 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-1</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>-0.017100000000000018 0.024199999999999999 -0.029500000000000026</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-2</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0034999999999999996 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric2">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-1</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>0 0.024199999999999999 -0.029499999999999998</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-2</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0035000000000000014 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-2</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>-0.017100000000000011 0.024199999999999999 -0.029499999999999971</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-3</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0034999999999999996 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric3">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-2</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>0 0.024199999999999999 -0.029500000000000026</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-3</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0035000000000000014 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-3</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>-0.01709999999999999 0.024200000000000006 -0.029500000000000026</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-4</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0034999999999999996 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric4">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-3</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>0 0.024200000000000006 -0.029500000000000026</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-4</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0035000000000000014 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-4</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>-0.01709999999999999 0.024199999999999999 -0.029499999999999971</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-5</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0034999999999999996 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric6">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-4</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>0 0.024200000000000003 -0.029500000000000026</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-5</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0035000000000000014 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric7">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-5</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>0 0.024199999999999999 -0.029500000000000082</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-6</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0035000000000000031 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-5</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>-0.017100000000000004 0.024199999999999999 -0.029500000000000026</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-6</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0035000000000000014 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric8">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-6</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>0 0.024199999999999999 -0.029499999999999971</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-7</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0034999999999999979 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-6</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>-0.01709999999999999 0.024199999999999999 -0.029499999999999971</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-7</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0034999999999999962 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident13">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-7</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>-0.017099999999999976 0.024199999999999999 -0.029500000000000082</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-12</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0034999999999999996 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric14">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-7</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>0 0.024199999999999999 -0.029499999999999971</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-12</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0035000000000000014 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident14">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-12</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>-0.017100000000000004 0.024199999999999996 -0.029499999999999971</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-13</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0034999999999999996 0</Position>
+<Axis>-1.2684711145728889e-16 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric15">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-12</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>0 0.024199999999999992 -0.029499999999999971</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-13</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0035000000000000014 0</Position>
+<Axis>-1.2684711145728889e-16 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident16">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-13</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>-0.017100000000000115 0.024199999999999992 -0.029499999999999915</Position>
+<Axis>-1.1551870729623897e-16 0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-14</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0034999999999999996 1.1102230246251565e-16</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric16">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-13</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>0 0.024199999999999992 -0.029499999999999971</Position>
+<Axis>-1.1551870729623897e-16 0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-14</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0035000000000000031 1.1102230246251565e-16</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident17">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-14</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>-0.017100000000000004 0.024199999999999999 -0.029500000000000082</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-15</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0034999999999999996 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric17">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-14</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>0 0.024200000000000003 -0.029499999999999971</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-15</Uid>
+<Uid>MG995_Servo-2</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0035000000000000031 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident19">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yellow seg with servo-15</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>-0.017100000000000004 0.024200000000000003 -0.029499999999999971</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Tail-4</Uid>
+<Uid>MG995_Servo-1</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0034999999999999996 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric19">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>yellow seg with servo-15</Uid>
+<Uid>1D servo seg-2</Uid>
+</InstancePath>
+<Position>0 0.024200000000000003 -0.029499999999999971</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Tail-4</Uid>
+<Uid>MG995_Servo-1</Uid>
+<Uid>TowerPro-MG995_pulley-1</Uid>
+</InstancePath>
+<Position>0 0.0035000000000000031 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="yellow seg with servo" uid="yellow seg with servo" version="121">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="yellow seg with servo.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="MG995_Servo" uid="MG995_Servo" version="122">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="MG995_Servo.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Head" uid="Head" version="117">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Head.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Tail" uid="Tail" version="120">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Tail.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="1D servo seg" uid="1D servo seg*:*Default" version="288">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="1D servo seg.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.044759040368343633</Mass>
+<CenterOfMass>0 0.001104797271569305 0.0097147705993588674</CenterOfMass>
+<Inertia>4.5449336023671797e-05 3.7154836345068176e-05 1.7085637117860792e-05 1.8177656881757452e-06 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="1D servo seg_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Head Cap" uid="Head Cap*:*Default" version="164">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Head Cap.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.014595623123566593</Mass>
+<CenterOfMass>-0.0013092110719393013 -0.002112785160856499 -0.0054225488931399233</CenterOfMass>
+<Inertia>1.7542620918244003e-06 3.7406442448502011e-06 3.5656012862940954e-06 -2.5165554063990287e-08 3.7046222460047196e-09 7.0237737094718145e-08</Inertia>
+</MassProperties>
+<GeometryFile name="Head Cap_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Nose servo mount" uid="Nose servo mount*:*Default" version="291">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Nose servo mount.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.028841823508434287</Mass>
+<CenterOfMass>0 0.0017145124566255634 -0.0060471204325552742</CenterOfMass>
+<Inertia>1.8147408170709513e-05 8.3870612593378729e-06 1.4653877493175827e-05 1.0383454462101901e-06 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Nose servo mount_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Tail cap" uid="Tail cap*:*Default" version="172">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Tail cap.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.013313270521931587</Mass>
+<CenterOfMass>-0.0014325496058406845 -0.0020406584871203075 -0.0046993412507615219</CenterOfMass>
+<Inertia>1.5953466128878039e-06 3.5767548538773989e-06 3.5517402447306639e-06 -2.1470654433639725e-08 -1.0392880354433384e-08 7.1099270928054488e-08</Inertia>
+</MassProperties>
+<GeometryFile name="Tail cap_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Tail servo mount" uid="Tail servo mount*:*Default" version="308">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Tail servo mount.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.031589309799870492</Mass>
+<CenterOfMass>0 0 0.021518615386415297</CenterOfMass>
+<Inertia>2.0397554951177983e-05 1.8975643418389874e-05 7.8061875335261357e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Tail servo mount_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="TowerPro-MG995" uid="TowerPro-MG995*:*Default" version="392">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="TowerPro-MG995.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.030918534258929081</Mass>
+<CenterOfMass>0.00018821285365624204 0.01726488194386086 -7.6942839051231185e-07</CenterOfMass>
+<Inertia>4.7104505201636105e-06 5.4255693312107206e-06 8.1573568092493491e-06 -2.3403699877393457e-10 -4.4746792225761597e-12 -1.2542618533578478e-09</Inertia>
+</MassProperties>
+<GeometryFile name="TowerPro-MG995_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.22352941176470587" g="0.22352941176470587" b="0.22352941176470587" a="1"/>
+<Diffuse r="0.22352941176470587" g="0.22352941176470587" b="0.22352941176470587" a="1"/>
+<Specular r="0.11176470588235293" g="0.11176470588235293" b="0.11176470588235293" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="TowerPro-MG995_pulley" uid="TowerPro-MG995_pulley*:*Default" version="348">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="TowerPro-MG995_pulley.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.000248315135665085</Mass>
+<CenterOfMass>0 -0.0038238847835911634 0</CenterOfMass>
+<Inertia>4.5928290176843037e-09 9.1485057273132552e-10 4.5928290176843037e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="TowerPro-MG995_pulley_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0.76470588235294112" b="0.2627450980392157" a="1"/>
+<Diffuse r="1" g="0.76470588235294112" b="0.2627450980392157" a="1"/>
+<Specular r="0.5" g="0.38235294117647056" b="0.13137254901960785" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
